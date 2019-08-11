@@ -2,4 +2,5 @@
 require 'sinatra' 
 
 
-require_relative './a'
+require_relative './app'
+
