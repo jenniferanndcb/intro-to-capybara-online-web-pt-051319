@@ -2,3 +2,4 @@
 require 'sinatra' 
 
 
+require_relative './a'
